@@ -1,0 +1,4 @@
+github.com/remoteit/go-ole v1.2.6 h1:pvn2rmgm9H4GFMacQPgugb7Y4Upks0wprQch23vNdMo=
+github.com/remoteit/go-ole v1.2.6/go.mod h1:tLqO960wrVuJZX58Gr3HwqDfdDrMWjaNqLOgQzOEeZw=
+golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3 h1:7TYNF4UdlohbFwpNH04CoPMp1cHUZgO1Ebq5r2hIjfo=
+golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=

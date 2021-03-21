@@ -37,8 +37,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-ole/go-ole"
-	"github.com/go-ole/go-ole/oleutil"
+	"github.com/remoteit/go-ole"
+	"github.com/remoteit/go-ole/oleutil"
 )
 
 var l = log.New(os.Stdout, "", log.LstdFlags)
@@ -577,7 +577,7 @@ func CreateQuery(src interface{}, where string, class ...string) string {
 	}
 	b.WriteString(strings.Join(fields, ", "))
 	b.WriteString(" FROM ")
-	if len(class) > 0{
+	if len(class) > 0 {
 		b.WriteString(class[0])
 	} else {
 		b.WriteString(t.Name())
