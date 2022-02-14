@@ -1,4 +1,4 @@
-github.com/remoteit/go-ole v1.2.6 h1:pvn2rmgm9H4GFMacQPgugb7Y4Upks0wprQch23vNdMo=
-github.com/remoteit/go-ole v1.2.6/go.mod h1:tLqO960wrVuJZX58Gr3HwqDfdDrMWjaNqLOgQzOEeZw=
-golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3 h1:7TYNF4UdlohbFwpNH04CoPMp1cHUZgO1Ebq5r2hIjfo=
-golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+github.com/remoteit/go-ole v1.2.7 h1:YpGVYSA5uik7oG2g3EBXs7ii/3jdN2mxEYWfG8IcDzQ=
+github.com/remoteit/go-ole v1.2.7/go.mod h1:HMYnHgvOLvftR688DGl6utOsABwvgBjMbNDRufgw0jA=
+golang.org/x/sys v0.0.0-20220209214540-3681064d5158 h1:rm+CHSpPEEW2IsXUib1ThaHIjuBVZjxNgSKmBLFfD4c=
+golang.org/x/sys v0.0.0-20220209214540-3681064d5158/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
